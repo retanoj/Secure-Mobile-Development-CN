@@ -11,4 +11,7 @@
   * [2.6. 了解安全地删除数据](coding-practices/2.6.-understand-secure-deletion-of-data.md)
   * [2.7. 避免请求URL中带有敏感数据](coding-practices/2.7.-avoid-query-string-for-sensitive-data.md)
 * [3. 处理敏感数据](handling-sensitive-data.md)
+  * [3.1. 安全数据存储实践](3.1.-implement-secure-data-storage.md)
+
+
 
