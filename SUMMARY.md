@@ -9,5 +9,6 @@
   * [2.4. 实施防篡改技术](coding-practices/2.4.-implement-anti-tamper-techniques.md)
   * [2.5. 将敏感数据安全存储在RAM中](coding-practices/2.5.-securely-store-sensitive-data-in-ram.md)
   * [2.6. 了解安全地删除数据](coding-practices/2.6.-understand-secure-deletion-of-data.md)
+  * [2.7. 避免请求语句中带有敏感数据](coding-practices/2.7.-avoid-query-string-for-sensitive-data.md)
 * [3. 处理敏感数据](handling-sensitive-data.md)
 
