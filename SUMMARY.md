@@ -12,6 +12,8 @@
   * [2.7. 避免请求URL中带有敏感数据](coding-practices/2.7.-avoid-query-string-for-sensitive-data.md)
 * [3. 处理敏感数据](handling-sensitive-data.md)
   * [3.1. 安全数据存储实践](3.1.-implement-secure-data-storage.md)
+  * [3.2. Cookie的安全设置](#)
+* [4. 缓存和日志](caching-and-logging.md)
 
 
 
