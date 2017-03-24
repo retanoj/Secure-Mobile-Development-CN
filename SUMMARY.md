@@ -14,5 +14,6 @@
   * [3.1. 安全数据存储实践](handling-sensitive-data/3.1.-implement-secure-data-storage.md)
   * [3.2. Cookie的安全设置](handling-sensitive-data/3.2.-use-secure-setting-for-cookies.md)
   * [3.3. 完全验证SSL/TLS](handling-sensitive-data/3.3.-fully-validate-ssltls.md)
+  * [3.4. 防止SSL降级攻击](handling-sensitive-data/3.4.-protect-against-ssl-downgrade-attacks.md)
 * [4. 缓存和日志](caching-and-logging.md)
 
