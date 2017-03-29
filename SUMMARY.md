@@ -17,5 +17,6 @@
   * [3.4. 防止SSL降级攻击](handling-sensitive-data/3.4.-protect-against-ssl-downgrade-attacks.md)
   * [3.5. 限制使用UUID](handling-sensitive-data/3.5.-limit-use-of-uuid.md)
   * [3.6. 谨慎处理地理位置数据](handling-sensitive-data/3.6.-treat-geolocation-data-carefully.md)
+  * [3.7. 本地会话超时机制](handling-sensitive-data/3.7.-institute-local-session-timeout.md)
 * [4. 缓存和日志](caching-and-logging.md)
 
