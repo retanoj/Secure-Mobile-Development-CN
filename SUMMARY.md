@@ -21,5 +21,6 @@
   * [3.8. 强化认证、双因素认证](handling-sensitive-data/3.8.-implement-enhanced-two-factor-authentication.md)
   * [3.9. 保护应用程序配置内容](handling-sensitive-data/3.9.-protect-application-settings.md)
   * [3.10. 隐藏帐号ID和使用Token](handling-sensitive-data/3.10.-hide-account-numbers-and-use-tokens.md)
+  * [3.11. Implement Secure Network Transmission Of Sensitive Data](handling-sensitive-data/3.11.-implement-secure-network-transmission-of-sensitive-data.md)
 * [4. 缓存和日志](caching-and-logging.md)
 
