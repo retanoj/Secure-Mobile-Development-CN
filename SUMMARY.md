@@ -19,5 +19,6 @@
   * [3.6. 谨慎处理地理位置数据](handling-sensitive-data/3.6.-treat-geolocation-data-carefully.md)
   * [3.7. 本地会话超时机制](handling-sensitive-data/3.7.-institute-local-session-timeout.md)
   * [3.8. 强化认证、双因素认证](handling-sensitive-data/3.8.-implement-enhanced-two-factor-authentication.md)
+  * [3.9. 保护应用程序配置文件](handling-sensitive-data/3.9.-protect-application-settings.md)
 * [4. 缓存和日志](caching-and-logging.md)
 
