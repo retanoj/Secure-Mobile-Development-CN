@@ -1,0 +1,15 @@
+# 处理敏感数据
+
+* [3.1. 数据存储安全实践](handling-sensitive-data/3.1.-implement-secure-data-storage.md)
+* [3.2. Cookie的安全设置](handling-sensitive-data/3.2.-use-secure-setting-for-cookies.md)
+* [3.3. 充分验证SSL/TLS](handling-sensitive-data/3.3.-fully-validate-ssltls.md)
+* [3.4. 防止SSL降级攻击](handling-sensitive-data/3.4.-protect-against-ssl-downgrade-attacks.md)
+* [3.5. 限制使用UUID](handling-sensitive-data/3.5.-limit-use-of-uuid.md)
+* [3.6. 谨慎处理地理位置数据](handling-sensitive-data/3.6.-treat-geolocation-data-carefully.md)
+* [3.7. 本地会话超时机制](handling-sensitive-data/3.7.-institute-local-session-timeout.md)
+* [3.8. 强化认证、双因素认证](handling-sensitive-data/3.8.-implement-enhanced-two-factor-authentication.md)
+* [3.9. 保护应用程序配置内容](handling-sensitive-data/3.9.-protect-application-settings.md)
+* [3.10. 隐藏帐号ID和使用Token](handling-sensitive-data/3.10.-hide-account-numbers-and-use-tokens.md)
+* [3.11. 传输敏感数据安全实践](handling-sensitive-data/3.11.-implement-secure-network-transmission-of-sensitive-data.md)
+* [3.12. 从客户端就开始验证输入](handling-sensitive-data/3.12.-validate-input-from-client.md)
+* [3.13. 避免将应用数据存储在备份中](handling-sensitive-data/3.13.-avoid-storing-app-data-in-backups.md)
