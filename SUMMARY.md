@@ -20,5 +20,6 @@
   * [3.7. 本地会话超时机制](handling-sensitive-data/3.7.-institute-local-session-timeout.md)
   * [3.8. 强化认证、双因素认证](handling-sensitive-data/3.8.-implement-enhanced-two-factor-authentication.md)
   * [3.9. 保护应用程序配置内容](handling-sensitive-data/3.9.-protect-application-settings.md)
+  * [3.10. 隐藏帐号和使用Token](handling-sensitive-data/3.10.-hide-account-numbers-and-use-tokens.md)
 * [4. 缓存和日志](caching-and-logging.md)
 
