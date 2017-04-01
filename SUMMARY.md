@@ -22,5 +22,6 @@
   * [3.9. 保护应用程序配置内容](handling-sensitive-data/3.9.-protect-application-settings.md)
   * [3.10. 隐藏帐号ID和使用Token](handling-sensitive-data/3.10.-hide-account-numbers-and-use-tokens.md)
   * [3.11. 传输敏感数据安全实践](handling-sensitive-data/3.11.-implement-secure-network-transmission-of-sensitive-data.md)
+  * [3.12. 从客户端就开始验证输入](handling-sensitive-data/3.12.-validate-input-from-client.md)
 * [4. 缓存和日志](caching-and-logging.md)
 
