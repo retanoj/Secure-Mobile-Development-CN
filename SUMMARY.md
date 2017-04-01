@@ -13,7 +13,7 @@
 * [3. 处理敏感数据](handling-sensitive-data.md)
   * [3.1. 安全数据存储实践](handling-sensitive-data/3.1.-implement-secure-data-storage.md)
   * [3.2. Cookie的安全设置](handling-sensitive-data/3.2.-use-secure-setting-for-cookies.md)
-  * [3.3. 完全验证SSL/TLS](handling-sensitive-data/3.3.-fully-validate-ssltls.md)
+  * [3.3. 充分验证SSL/TLS](handling-sensitive-data/3.3.-fully-validate-ssltls.md)
   * [3.4. 防止SSL降级攻击](handling-sensitive-data/3.4.-protect-against-ssl-downgrade-attacks.md)
   * [3.5. 限制使用UUID](handling-sensitive-data/3.5.-limit-use-of-uuid.md)
   * [3.6. 谨慎处理地理位置数据](handling-sensitive-data/3.6.-treat-geolocation-data-carefully.md)
