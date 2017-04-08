@@ -25,4 +25,7 @@
   * [3.12. 从客户端就开始验证输入](handling-sensitive-data/3.12.-validate-input-from-client.md)
   * [3.13. 避免将应用数据存储在备份中](handling-sensitive-data/3.13.-avoid-storing-app-data-in-backups.md)
 * [4. 缓存和日志](caching-and-logging.md)
+  * 4.1. Avoid Caching App Data
+
+
 
