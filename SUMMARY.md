@@ -36,5 +36,6 @@
   * [5.2. 用表单Token来防止CSRF](webviews/5.2.-protect-against-CSRF-with-form-tokens.md)
 * [6. iOS](ios.md)
   * [6.1. 谨慎使用钥匙串](iOS/6.1.-use-the-keychain-carefully.md)
+  * [6.2. Avoid Cached Application Snapshots](iOS/6.2.-avoid-cached-application-snapshots.md)
 * [7. Android](android.md)
 
