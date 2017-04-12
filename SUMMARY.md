@@ -43,4 +43,5 @@
   * [6.6. 正确使用Touch ID](iOS/6.6.-implement-touch-id-properly.md)
 * [7. Android](android.md)
   * [7.1. 谨慎设置文件权限](android/7.1.-implement-file-permissions-carefully.md)
+  * [7.2. 谨慎实现Intents](android/7.2.-implement-intents-carefully.md)
 
