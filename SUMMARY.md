@@ -42,7 +42,5 @@
   * [6.5. 实施应用程序传输安全（ATS）](iOS/6.5.-implement-app-transport-security-ats.md)
   * [6.6. 正确使用Touch ID](iOS/6.6.-implement-touch-id-properly.md)
 * [7. Android](android.md)
-  * 7.1. Implement File Permissions Carefully
-
-
+  * [7.1. 谨慎设置文件权限](android/7.1.-implement-file-permissions-carefully.md)
 
